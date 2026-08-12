@@ -14,7 +14,7 @@ Setup Autopilot V1 and enrol Windows VM
   
       https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/ChooseMDMAuthorityBlade/
 
-  <img width="1212" alt="image" src="AP1.png">
+<img width="1212" alt="image" src="AP1.png">
   
 - Device platform restriction
 
