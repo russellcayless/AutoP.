@@ -13,6 +13,8 @@ Setup Autopilot V1 and enrol Windows VM
 - Check MDM authority is Intune, this link allow you to set authority...
   
       https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/ChooseMDMAuthorityBlade/
+
+  <img width="1212" alt="image" src="AP1.png">
   
 - Device platform restriction
 
