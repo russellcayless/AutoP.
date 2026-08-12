@@ -18,6 +18,13 @@ Setup Autopilot V1 and enrol Windows VM
   
 - Device platform restriction
 
+<img width="1212" alt="image" src="AP2.png">
+<img width="1212" alt="image" src="AP3.png">
+<img width="1212" alt="image" src="AP4.png">
+<img width="1212" alt="image" src="AP5.png">
+<img width="1212" alt="image" src="AP6.png">
+<img width="1212" alt="image" src="AP7.png">
+<img width="1212" alt="image" src="AP8.png">
 
 
 
