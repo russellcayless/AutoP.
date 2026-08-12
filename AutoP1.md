@@ -1,12 +1,24 @@
-# Build & Use Threat Intelligence in Microsoft Defender
+# Windows Autopilot V1 
 
 ## Platforms and Languages Leveraged
 
 - EDR Platform: Microsoft Defender for Endpoint
 
 ## What you'll do:
-Find suspicious IPs in your logs → turn them into TI indicators → confirm they're in the table → match them in queries → build an analytics rule.
-Naming: name every indicator with MaliciousFlows — the queries below filter on that name.
+Setup Autopilot V1 and enrol Windows VM 
+
+## Prerequisite Environment Checks:
+
+- Ensure Intune license configured
+- Check MDM authority is Intune, this link allow you to set authority...
+  
+      https://intune.microsoft.com/#view/Microsoft_Intune_Enrollment/ChooseMDMAuthorityBlade/
+  
+- Device platform restriction
+
+
+
+
 
 1. Find suspicious IPs
 Port scanners (from VNet/NSG logs) — SrcIp is the attacker:
