@@ -54,8 +54,8 @@ Get-WindowsAutopilotInfo -OutputFile AutopilotHWID.csv
 <img width="1212" alt="image" src="apa10.png">
 <img width="1212" alt="image" src="apa11.png">
 <img width="1212" alt="image" src="apa12.png">
-<img width="1212" alt="image" src="ps1.png">
 <img width="1212" alt="image" src="ps2.png">
 <img width="1212" alt="image" src="ps3.png">
+<img width="1212" alt="image" src="ps4.png">
 
 
