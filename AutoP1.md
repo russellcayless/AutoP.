@@ -40,6 +40,8 @@ Install-Script -Name Get-WindowsAutopilotInfo
 Get-WindowsAutopilotInfo -OutputFile AutopilotHWID.csv
 ```
 
+
+<img width="1212" alt="image" src="ps.png">
 <img width="1212" alt="image" src="apa1.png">
 <img width="1212" alt="image" src="apa2.png">
 <img width="1212" alt="image" src="apa3.png">
@@ -52,5 +54,8 @@ Get-WindowsAutopilotInfo -OutputFile AutopilotHWID.csv
 <img width="1212" alt="image" src="apa10.png">
 <img width="1212" alt="image" src="apa11.png">
 <img width="1212" alt="image" src="apa12.png">
+<img width="1212" alt="image" src="ps1.png">
+<img width="1212" alt="image" src="ps2.png">
+<img width="1212" alt="image" src="ps3.png">
 
 
