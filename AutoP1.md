@@ -46,6 +46,8 @@ Setup Autopilot V1 and enrol Windows VM
 
 ---
 
+## Windows Autopilot V1
+
 1. Capture and save hardware hash 
 
 ```
