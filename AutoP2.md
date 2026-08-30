@@ -9,11 +9,11 @@ Setup Autopilot V2 and enrol Windows VM
 
 ---
 
-1. Create New device security group within Entra
+1. Create New devices security group within Entra
 <img width="1212" alt="image" src="ap21.png">
 2. Add Intune Provisioning Client as Owner
 <img width="1212" alt="image" src="ap22.png">
-3. Create a second user security group within Entra
+3. Create a second users security group within Entra
 <img width="1212" alt="image" src="ap23.png">
 4. Add an owner to the group
 <img width="1212" alt="image" src="ap24.png">
