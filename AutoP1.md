@@ -19,17 +19,29 @@ Setup Autopilot V1 and enrol Windows VM
 - Intune - Devices - Enrollment - Device Platform Restriction - Create restriction
 
 <img width="1212" alt="image" src="AP2.png">
+
 - Name restriction 
+
 <img width="1212" alt="image" src="AP3.png">
+
 - Block personally owned devices
+
 <img width="1212" alt="image" src="AP4.png">
+
 - Scope tags
+
 <img width="1212" alt="image" src="AP5.png">
+
 - Assign to all users
+
 <img width="1212" alt="image" src="AP6.png">
+
 - Create restriction
+
 <img width="1212" alt="image" src="AP7.png">
+
 - New restriction becomes priority
+
 <img width="1212" alt="image" src="AP8.png">
 
 ---
