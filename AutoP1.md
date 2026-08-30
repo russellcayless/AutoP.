@@ -59,5 +59,4 @@ Get-WindowsAutopilotInfo -OutputFile AutopilotHWID.csv
 <img width="1212" alt="image" src="ps4.png">
 
 
-# Windows Autopilot V2
 
